@@ -1,0 +1,16 @@
+# Global ignores
+*.log
+.DS_Store
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite
